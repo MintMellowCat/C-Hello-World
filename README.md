@@ -1,4 +1,4 @@
-# C-Hello-World
+# C++ Hello World Example
 This is a hello world test/example for C++.
 
 Compile with any C++ compiler.
